@@ -1,1 +1,9 @@
+# Site settings
+title: Daniel Huang Github
+author:
+  name: Daniel Huang
+  email: huangguanqiao@foxmail.com
+description: "Daniel Huang's Github"
+
+# Build settings
 theme: jekyll-theme-cayman
