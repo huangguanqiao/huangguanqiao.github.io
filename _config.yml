@@ -1,5 +1,4 @@
 
 
 # Build settings
-# theme: jekyll-theme-cayman
-theme: jekyll/minima
+theme: jekyll-theme-cayman
