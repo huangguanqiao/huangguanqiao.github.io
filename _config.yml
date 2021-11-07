@@ -1,9 +1,8 @@
 # Site settings
-title: Great New Blog Title
-author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+title: Daniel Huang
+  name: Guanqiao Huang
+  email: huangguanqiao@foxmail.com
+description: "Github pages."
 
 # Build settings
 theme: jekyll-theme-cayman
