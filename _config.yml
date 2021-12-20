@@ -54,11 +54,11 @@ highlighter: rouge
 #    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-  
+
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: #6cbaa4389d74519e2e52                            #生成的clientID
   clientSecret: #9ad60699b9b111d887b1510d34418901ca1a0db2    #生成的clientSecret
   repo: huangguanqiao.github.io    #仓库名称
