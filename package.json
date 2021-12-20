@@ -1,14 +1,14 @@
 {
-    "name": "wp-blog",
-    "title": "WP Blog",
-    "author": "WP <im.wangpei@outlook.com>",
-    "version": "1.7.0",
-    "homepage": "http://xiaokeai18.github.io",
+    "name": "HUANGBLOG",
+    "title": "Huang's Blog",
+    "author": "HUANG <huangguanqiao@foxmail.com>",
+    "version": "1.0.0",
+    "homepage": "https://huangguanqiao.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/xiaokeai18/xiaokeai18.github.io"
+        "url": "https://github.com/huangguanqiao/huangguanqiao.github.io"
     },
-    "bugs": "https://github.com/xiaokeai18/xiaokeai18.github.io/issues",
+    "bugs": "https://github.com/huangguanqiao/huangguanqiao.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
@@ -19,10 +19,10 @@
     "scripts": {
         "preview": "cd _site; python -m SimpleHTTPServer 8020",
         "py3view": "cd _site; python3 -m http.server 8020",
-        "watch"  : "grunt watch & npm run preview & jekyll serve -w",
-        "py3wa"  : "grunt watch & npm run py3view & jekyll serve -w",
-        "boil"   : "git push boilerplate boilerplate:master",
-        "push"   : "git push origin master --tag",
-        "cafe"   : "git co gitcafe-pages; git merge master; git push gitcafe gitcafe-pages:gitcafe-pages --tag; git co master;"
+        "watch": "grunt watch & npm run preview & jekyll serve -w",
+        "py3wa": "grunt watch & npm run py3view & jekyll serve -w",
+        "boil": "git push boilerplate boilerplate:master",
+        "push": "git push origin master --tag",
+        "cafe": "git co gitcafe-pages; git merge master; git push gitcafe gitcafe-pages:gitcafe-pages --tag; git co master;"
     }
 }
