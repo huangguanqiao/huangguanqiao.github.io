@@ -26,3 +26,23 @@ tags:
 - Input arguments can be passed to a bash script after the script name, separated by spaces (myScript.sh “hello” “how are you”).
 - Input can be requested from the script user with the read keyword.
 - Aliases can be created in the .bashrc or .bash_profile using the alias keyword.
+
+# Examples
+## Example 1
+```Bash
+#!/bin/bash
+first_greeting="Nice to meet you!"
+later_greeting="How are you?"
+greeting_occasion=0
+greeting_limit=$1
+while [ $greeting_occasion -lt $greeting_limit ]
+do
+  if [ $greeting_occasion -lt 1 ]
+  then
+    echo $first_greeting
+  else
+    echo $later_greeting
+  fi
+  greeting_occasion=$((greeting_occasion + 1))
+done
+```
