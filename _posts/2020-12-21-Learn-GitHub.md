@@ -34,3 +34,9 @@ Microsoft Learn:
 
 Github: 
 - [Guides](https://guides.github.com/)
+
+Gibucket
+- [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+Others:
+- [Git vs. GitHub: What’s the Difference?](https://blog.devmountain.com/git-vs-github-whats-the-difference/)

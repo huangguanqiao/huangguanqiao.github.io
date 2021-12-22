@@ -37,3 +37,34 @@ Take the [Scrum Training Series](http://scrumtrainingseries.com/) sections:
 - [Sprint Retrospective Meeting](http://scrumtrainingseries.com/SprintRetrospectiveMeeting/)
 
 It will take you approximately 2 hours 25 minutes to complete
+
+If you’d like to extend your learning, here are some resources you can explore further: 
+
+- Linkedin Learning: [Agile Foundations](https://www.linkedin.com/learning/agile-foundations/understanding-agile) (1 hour 35 minutes)  
+
+    To access the course, click Next > Click Load Agile Foundations button
+
+- Linkedin Learning: [SCRUM: The Basics](https://www.linkedin.com/learning/scrum-the-basics/practicing-scrum-in-your-work-environment) (1 hour)
+
+    To access the course, click Next > Click Load SCRUM: The Basics button
+ 
+
+# Additional Resources
+[Agile vs Waterfall Methodology](https://www.youtube.com/watch?v=5RocT_OdQcA&t=11s)
+
+[Why only one Product Owner for multiple teams](https://www.youtube.com/watch?v=cr2rjaGmUzo)
+
+[Free Templates for Agile Project Management](https://digitalstrategy-ai.com/2020/11/01/free-templates-for-agile-project-management/)
+
+[The Scrum Master Checklist](https://scrummasterchecklist.org/)
+
+[Scrum Reference Card-English](https://scrumreferencecard.com/scrum-reference-card/)
+
+[Scrum Reference Card-Chinese](https://scrumreferencecard.com/scrum-%E5%8F%82%E8%80%83%E5%8D%A1/)
+
+[Agile Business Analysis: An Introduction](https://www.watermarklearning.com/blog/agile-business-analysis-an-introduction/)
+
+[Business Analysis – Adding Value in an Agile Environment](https://www.watermarklearning.com/blog/business-analysis-adding-value-in-an-agile-environment/)
+
+[Business Analysis Role in Scrum Events](https://www.watermarklearning.com/blog/business-analysis-role-in-scrum-events/)
+

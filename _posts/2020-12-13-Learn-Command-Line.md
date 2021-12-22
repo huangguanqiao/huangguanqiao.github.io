@@ -2,7 +2,7 @@
 layout:     post
 title:     Learn Command Line
 subtitle:   BY Guanqiao Huang
-date:       2020-12-16
+date:       2020-12-13
 author:     HUANG
 header-img: img/post-bg-universe.jpg
 catalog: true
@@ -28,6 +28,8 @@ By now you should be able to:
 If you finish and wish to continue learn more, here is a resource for you to explore further:
 
 ## Additional resources
-W3School
+[W3School- What is Command Line Interface (CLI)](https://www.w3schools.com/whatis/whatis_cli.asp)
 
-[What is Command Line Interface (CLI)](https://www.w3schools.com/whatis/whatis_cli.asp)
+[Understanding of ls command with a long listing format output and permission bits](https://linuxconfig.org/understanding-of-ls-command-with-a-long-listing-format-output-with-permission-bits)
+
+
