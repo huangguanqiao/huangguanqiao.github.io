@@ -9,7 +9,7 @@ catalog: true
 tags:
     - Agile
 ---
-# Learn Agile and Scrum  
+# Learn Agile
 **Agile Development** is a set of methods and practices where solutions evolve through collaboration between self-organising, cross-functional teams. You’ll need to first understand the agile essentials to then be able to apply it to your software development practice. 
 
 The following reading will bring you up to speed on the concepts and principles of Agile with articles, videos, glossary terms, and more.
