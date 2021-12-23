@@ -48,6 +48,18 @@ If you’d like to extend your learning, here are some resources you can explore
 
     To access the course, click Next > Click Load SCRUM: The Basics button
  
+# Additional Materials
+[Agile Project Workbook](https://www.agilevideos.com/wp-content/uploads/2013/01/agileprojectworkbook-V3.0.xls)
+
+[Agile Meetings Cheat Sheet](https://agilevideos.com/wp-content/uploads/2016/04/Agile-Meetings-CheatSheet-1.pdf)
+
+[Agile Lifecycle Diagram](https://agilevideos.com/wp-content/uploads/2016/04/Agile-Roles-Responsibilities-1.pdf)
+
+[Agile Roles and Responsibilities](https://agilevideos.com/wp-content/uploads/2016/04/Agile-Roles-Responsibilities-1.pdf)
+
+[Agile Meetings Checklist](https://agilevideos.com/wp-content/uploads/2016/04/Agile-Meetings-Checklist-by-VersionOne-1.pdf)
+
+[Agile Glossary of Terms](https://agilevideos.com/wp-content/uploads/2020/07/Agile-Glossary-of-Terms.pdf)
 
 # Additional Resources
 [Agile vs Waterfall Methodology](https://www.youtube.com/watch?v=5RocT_OdQcA&t=11s)

@@ -12,6 +12,10 @@ tags:
 # Scrum Elements
 ## Roles
 ### Product Owner
+- Maximizing the value of the product
+- Managing the product Backlog
+- Maximizing the Development Team work
+- Entire organization must respect PO decisions
 - Responsible for Return On Ivestment(ROI)
 - Final arbiter of requirements questions
 - Focused more on the *what* than on the *how*
@@ -19,10 +23,14 @@ tags:
 Tips: Produce Product backlog, May not have the whole roadmap. Vision of the product, One product owner for multiple teams
 
 ### Scrum Development Team
-- Cross-functional group
+- Professionals delivering increment of "Done" product
 - Tries to develop a "potentially shippable product increment" every Sprint
+- Empowered to organize and manage their own work
+- Cross-functional group
 - Collaborates
 - Self-organizing
+- 3-9 members
+- No sub-teams
 
 Tips: Work together, As a learning team, No job title, Natural relation between each others, normally no more than 5 people in a team (break into small team), as a family, work naturally in a team room
 
@@ -30,6 +38,11 @@ Tips: Work together, As a learning team, No job title, Natural relation between 
 - Has no management authority
 - Does not have a project manager role
 - Facilitator 促进者
+- Ensuring Scrum is understood and enacted
+- Servant-leader for the Scrum Team 
+- helps everyone in interactions
+- To maximize the value created
+- Provide service to the Product Owner, the Dev Team and the Organization
 
 Tips: Scrum master protect the team from various influence, teach people how to use scrum, improve engineer practices, time boxes, felxibility, manangement power, srummaster checklist
 
@@ -70,6 +83,17 @@ Tips: Scrum master protect the team from various influence, teach people how to 
 4. End of the two weeks, team demonstrates its completed work wo the product owner and stakeholders.
 5. Finally, Team reflects on how it can improve the practices. (how things went during the two weeks)
 
+# Three Theories
+- Transparencyy: Whole process must be visible to those responsible for the outcome, people agree on what do they see, the process and roles are definied.
+- Inspection: frequent inspection of the process and progress to adjust it according to findings.
+- Adaptation: If process deviate outside acceptable limits the process must be adjusted as soon as possible.
+
+# Values
+- Commitment: People personally commit to achieving the goals of the Scrum Team.
+- Courage: Scrum Team members have courage to do the right thing and work on tough problems.
+- Focus: Everyone focuses on the work of the Sprint and the goals of the Scrum Team.
+- Openness: Scrum Team and its stakeholders agree to be open about all the work and the challenges with performing the work.
+- Respect: Scrum Team members respect each other to be capable, independent people.
 
 # Some Links
 [The Scrum Master Checklist](https://scrummasterchecklist.org/)
