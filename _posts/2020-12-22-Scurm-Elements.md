@@ -63,6 +63,13 @@ Tips: Scrum master protect the team from various influence, teach people how to 
 
 ### Spring Restrospective Meeting
 
+# Scurm Framework
+1. Product owner prioritizes a backlog of work (for the team to do).
+2. Team decides what work can be done next (two weeks).
+3. Team develops and tests solutions to the backlog items until done (ready for use).
+4. End of the two weeks, team demonstrates its completed work wo the product owner and stakeholders.
+5. Finally, Team reflects on how it can improve the practices. (how things went during the two weeks)
+
 
 # Some Links
 [The Scrum Master Checklist](https://scrummasterchecklist.org/)

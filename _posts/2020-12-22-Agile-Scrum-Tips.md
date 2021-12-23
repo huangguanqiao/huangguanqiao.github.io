@@ -25,3 +25,13 @@ tags:
 13. The Daily Scrum Meeting should be held standing, and last no longer than 15 minutes. In this meeting, team members each provide updates on work completed, share next steps and discuss collaboration opportunities.
 14. The Sprint Backlog holds all of the product backlog items selected from the sprint and will be edited by team members throughout the duration of a sprint.
 15. A burndown chart gives a summary of how the number of uncompleted tasks are changing over time. It provides an overview of team productivity and alerts possible hold-ups in progress.
+16. The Scrum approach allows teams to deliver milestones as small pieces.
+17. Key: Work with business partners throughout a project.
+18. Key: Measure sucess using completed software
+19. Key: Allow teams to self-organize.
+20. Self-organization is an overriding theme of the Agile Manifesto, which makes it unique to software development methodologies.They will do a much better job working on the design and tests from the ground level, rather than from an up-front plan.
+21. The Scrum approach breaks deliverables and milestones into small pieces, and involves the entire team to focus on one goal until it is done.
+22. Demonstrate the completed work is Scrum Teams to do at the end of every sprint.
+23. Basics of the Scrum framework designed to encourage a fast feedback loop which is the short time frame and a focus on a completed product at the end forces the team to fail and learn fast.
+24. In the Agile Manifesto, Scrum values responding to change.
+
