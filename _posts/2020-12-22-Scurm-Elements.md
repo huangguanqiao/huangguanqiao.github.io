@@ -10,6 +10,8 @@ tags:
     - Scrum
 ---
 # Scrum Elements
+## Terms:
+
 ## Roles
 ### Product Owner
 - Maximizing the value of the product
