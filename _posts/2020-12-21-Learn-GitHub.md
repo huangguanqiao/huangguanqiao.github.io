@@ -14,6 +14,8 @@ tags:
 
 [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 
+[Github Cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+
 By now you should be able to: 
 
 - Create and use a repository
@@ -40,3 +42,4 @@ Gibucket
 
 Others:
 - [Git vs. GitHub: What’s the Difference?](https://blog.devmountain.com/git-vs-github-whats-the-difference/)
+
