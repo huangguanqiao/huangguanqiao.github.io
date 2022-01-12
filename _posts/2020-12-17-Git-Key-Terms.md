@@ -31,3 +31,19 @@ information about what will go into your next commit. You can think of the stagi
 - `Branch:` A branch is when a new line of development is created that diverges from the main line of development. This alternative line of development can continue without altering the main line. 
 
     Going back to the example of save point in a game, you can think of a branch as where you make a save point in your game and then decide to try out a risky move in the game. If the risky move doesn't pan out, then you can just go back to the save point. The key thing that makes branches incredibly powerful is that you can make save points on one branch, and then switch to a different branch and make save points there, too. 
+
+```
+    git branch -av
+    git branch -a
+    git branch -v
+    //display all branch
+
+    git branch -r
+    //display branch only for remote
+
+    git branch -d "dummy"
+    // delete local branch
+
+    git branch --delete "dummy' 
+    //this is for delete the remote branch
+    ```
