@@ -25,3 +25,12 @@ To access the course, click Next > Click Load HTML: Tables button
 To access the course, click Next > Click Load Crafting Meaningful HTML button
 - W3Schools: [HTML tutorial](https://www.w3schools.com/html/)
 - [Learn HTML Org](https://www.learn-html.org/)
+
+## Additional Links
+[Coding and Programming Foundation Links](https://docs.google.com/spreadsheets/d/1FaeikZ4NFMqJR670oeNO4Ed-W3nXm0ah8nVz-VxDQGs/edit#gid=634347005)
+
+[Git and GitHub Links](https://docs.google.com/spreadsheets/d/1FaeikZ4NFMqJR670oeNO4Ed-W3nXm0ah8nVz-VxDQGs/edit#gid=1177221228)
+
+[Agile and Scrum](https://docs.google.com/spreadsheets/d/1FaeikZ4NFMqJR670oeNO4Ed-W3nXm0ah8nVz-VxDQGs/edit#gid=264583226)
+
+[Learning Web Design](https://drive.google.com/file/d/1BTarICQu_h_rngBaeqNOtcgG00F29dDF/view)
