@@ -10,7 +10,116 @@ tags:
     - CSS
 ---
 
-### Example HTML
+## Stylesheet
+### Internal Stylesheet
+```CSS
+<style>
+selector {
+  //declaration
+  property: value;
+}
+</style>
+```
+
+### External Stylesheet
+`<link href='./style.css' rel='stylesheet'>`
+
+### Universal
+```CSS
+* {
+  property: value;
+}
+```
+
+- CSS is not limited to selecting elements by their type.
+- HTML elements can also have [attributes](https://www.w3schools.com/html/html_attributes.asp)
+- 如果是全局用`*`号
+- 如果是标准type selector 不用符号直接名字，比如`h1{}`
+- 如果是class selector 用`.`符号来开头，比如`.brand{}`
+- 假如是ID selector 用`#`符号来开头，比如`#brand{}`用在`<h1 id='brand'> ... </h1>`
+- The uppercase class name should be next to the title class name, with a space in between. 比如`<h1 class='title uppercase'>ABC</h1>`
+```CSS
+.title {
+  color: teal;
+}
+
+.uppercase{
+  text-transform: uppercase;
+}
+```
+
+- 如果是Attribute selector， 可以用`[]`，比如[href]{}
+```CSS
+//html
+<img src='/images/seasons/cold/winter.jpg'>
+<img src='/images/seasons/warm/summer.jpg'>
+
+//CSS
+img[src*='winter'] {
+  height: 50px;
+}
+ 
+img[src*='summer'] {
+  height: 100px;
+}
+```
+意思是链接包括某string，用某stytle。比如对于`<img>`来说`src*='string'`，比如对于`<a>`来说`href*='string'`。
+The first ruleset looks for an img element with an attribute of src that contains the string 'winter', and sets the height to 50px.
+
+### Pseudo-class
+鼠标移动到selector的变化
+```CSS
+selector:pseudo-class {
+ 
+}
+```
+
+### Chaining
+```CSS
+elements.classname{}
+
+//example
+//意思是标有destination作为class的<h2>
+//比如<h2 class='destination heading-background'>
+h2.destination{
+  font-family: Tahoma;
+}
+```
+
+### Descendant Combinator
+```CSS
+.Classname nestedelements{
+
+}
+
+//example
+//意思是description这个class里面的<h5>
+.description h5{
+
+}
+```
+
+### Chaining and Specificity
+```CSS
+parent-selector descendant-selector {
+  declaration
+}
+
+//Example: <li><h4 class='destination'>Jackson Hole, Wyoming</h4></li>
+li h4{
+  color: gold;
+}
+```
+
+### Multiple Selectors
+```CSS
+h5,li{
+font-family: monospace;
+}
+```
+
+
+### Example HTML&CSS
 ```html
 <!DOCTYPE html>
 <html>
