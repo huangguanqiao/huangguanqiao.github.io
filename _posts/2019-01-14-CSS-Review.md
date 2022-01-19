@@ -73,12 +73,124 @@ body{
 
 
 ```
+## THE BOX MODEL
 
-The model includes the content area’s size (width and height) and the element’s padding, border, and margin. The properties include:
+- The model includes the content area’s size (width and height) and the element’s padding, border, and margin. The properties include:
 
-width and height: The width and height of the content area.
+- width and height: The width and height of the content area.
 padding: The amount of space between the content area and the border.
 border: The thickness and style of the border surrounding the content area and padding.
-margin: The amount of space between the border and the outside edge of the element.
+
+- margin: The amount of space between the border and the outside edge of the element.
+
+```CSS
+/*Seperate*/
+#img-one {
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+/*4 Values*/
+/*clockwise rotation:
+top,right,bottom,left */
+p {
+  margin: 6px 10px 5px 12px; 
+}
+
+/* 3 Values*/
+/*If the left and right sides of the content can be equal: 
+top,right&left,bottom*/
+p {
+  margin: 5px 12px 4px;
+}
+
+/*2Values*/
+/*if the top and bottom sides can be equal, and the left and right sides can be equal
+top&bottom, left&right*/
+p {
+  margin: 20px 10px;
+}
+```
+- margin: 0 auto:The 0 sets the top and bottom margins to 0 pixels. The auto value instructs the browser to adjust the left and right margins until the element is centered within its containing element.
+```CSS
+/*Center the selector horizontally using the margin property*/
+div.headline {
+  width: 400px;
+  margin: 0 auto;
+}
+```
 
 - padding is space added inside an element’s border, while margin is space added outside an element’s border. One additional difference is that top and bottom margins, also called vertical margins, collapse, while top and bottom padding does not.
+
+```CSS
+/*
+padding-top
+padding-right
+padding-bottom
+padding-left
+*/
+p {
+  padding-bottom: 10px;
+}
+```
+
+- Border:
+1. width—The thickness of the border. A border’s thickness can be set in pixels or with one of the following keywords: thin, medium, or thick.
+2. style—The design of the border. Web browsers can render any of 10 different styles. Some of these styles include: none, dotted, and solid.
+3. color—The color of the border. Web browsers can render colors using a few different formats, including 140 built-in color keywords.
+
+- Border Radius: set all four corners of the border to a radius
+```CSS
+p {
+  border: 3px solid coral;
+  border-radius: 50%;
+}
+```
+
+- The `overflow` property controls what happens to content that spills, or overflows, outside its box. The most commonly used values are:
+
+- `hidden`—when set to this value, any content that overflows will be hidden from view.
+- `scroll`—when set to this value, a scrollbar will be added to the element’s box so that the rest of the content can be viewed by scrolling.
+- `visible`—when set to this value, the overflow content will be displayed outside of the containing element. Note, this is the default value.
+```CSS
+.donate{
+  visibility: hidden;
+}
+```
+
+## THE BOX MODEL REVIEW
+- The box model comprises a set of properties used to create space around and between HTML elements.
+- The height and width of a content area can be set in pixels or percentages.
+- Borders surround the content area and padding of an element. The color, style, and thickness of a border can be set with CSS properties.
+- Padding is the space between the content area and the border. It can be set in pixels or percent.
+- Margin is the amount of spacing outside of an element’s border.
+- Horizontal margins add, so the total space between the borders of adjacent elements is equal to the sum of the right margin of one element and the left margin of the adjacent element.
+- Vertical margins collapse, so the space between vertically adjacent elements is equal to the larger margin.
+- margin: 0 auto horizontally centers an element inside of its parent content area, if it has a width.
+- The overflow property can be set to display, hide, or scroll, and dictates how HTML will render content that overflows its parent’s content area.
+- The visibility property can hide or show elements.
+
+## Resetting Defaults
+```CSS
+* {
+  margin: 0;
+  padding: 0;
+}
+```
+
+## CHANGING THE BOX MODEL
+- In the default box model, box dimensions are affected by border thickness and padding.
+- The `box-sizing` property controls the box model used by the browser.
+- The default value of the box-sizing property is `content-box`.
+- The value for the new box model is `border-box`.
+- The `border-box` model is not affected by border thickness or padding.
+1. The default value of this property is `content-box`.
+2. `box model`, the height and width of the box will remain fixed. 
+```CSS
+* {
+  box-sizing: border-box;
+}
+```
+

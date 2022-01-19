@@ -66,6 +66,7 @@ console.log(totalCost);
 
 ## Function Expressions
 - A function with no name is called an anonymous function. A function expression is often stored in a variable in order to refer to it.
+
 ```Javascript
 const plantNeedsWater = function(day){
  if(day === 'Wednesday'){
@@ -230,7 +231,8 @@ const getComputerChoice = () => {
   }
   ```
 
-  ### Whole Games
+ ### Whole Games
+
   ```Javascript
   const getUserChoice = userInput => (userInput = userInput.toLowerCase(), (userInput === 'paper')||(userInput ==='rock')||(userInput ==='scissors') ? userInput : console.log('error'));
 
