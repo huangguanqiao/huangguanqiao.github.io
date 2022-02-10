@@ -9,6 +9,23 @@ catalog: true
 tags:
     - Jenkins
 ---
+# Jenkins 特点
+- Easy Installation
+Jenkins is a self contained Java-based program, ready to run with packages for Windows, Mac OS X and unix-like OS
+
+- Easy Configuration
+It can be easily set up and configured via its web interface which includes error checks and built-in help
+
+- Plugins
+ It has hundreds of plugins in the Update Center and integrates with every tools in the CI and CD tool chain
+
+- Extensible
+Jenkins can be extended via its plugin architecture and provides nearly infinite possibilities for what it can do
+
+- Distributed
+It can easily distribute work across multiple machines, helping in faster builds, tests and deployments across multiple platforms
+
+
 1. CI/CD工具
 Travis
 Jenkins 默认认为运行在linux， 去做Pipeline的工具 engine/runner
