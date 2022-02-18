@@ -7,7 +7,7 @@ author:     HUANG
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - Salesforcr
+    - Salesforce
 ---
 # Basic Terms
 [Links](https://trailhead.salesforce.com/content/learn/modules/lex_salesforce_basics/lex_salesforce_basics_welcome)
@@ -105,6 +105,26 @@ The primary difference is right in the name. With Lightning components, you’re
 
 # Heroku
 `Heroku` is a web development platform that lets you quickly build, deploy, and scale web apps. Heroku is built on Amazon Web Services (AWS), meaning a lot of infrastructure concerns you might have in standard web app development are taken care of for you. On top of that, `Heroku Connect` unifies your Salesforce data with your `Heroku Postgres` data so you don’t have to manage moving information across platforms. No worrying about infrastructure or data storage means more time for you to focus on new development.
+
+# Access
+1. Organization-Level Access
+- Users
+- Password policies
+- Login hours
+- Approved locations (IP ranges)
+2. Object Access
+- Permission sets
+- Reveal only what's permitted
+- Role hierarchies
+3. Field Access
+- Show and hide fields
+- Sensitive data is protected (for example, personal identifiers)
+4. Granitng Record Aceess
+- Grant record access to users so they are only permitted to view what's allowed for their job position:
+- Organization-wide default settings
+- Role hierartchies (for their subordinates)
+- Sharing rules: an exception to organization-wide defaults (for groups of users by giving them access to records)
+- Manual record sharing
 
 [Links](https://trailhead.salesforce.com/content/learn/modules/starting_force_com/starting_tour)
 

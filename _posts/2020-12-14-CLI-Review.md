@@ -70,3 +70,6 @@ Environment variables are variables that can be used across commands and program
 - `HOME` is the home directory. It is usually not customized.
 - `PATH` returns a colon : separated list of file paths. It is customized in advanced cases.
 - `env` returns a list of environment variables. You can redirect the output, using grep to select the variable you want to see.
+
+# Additional Resources
+[Vim Cheat Sheet](https://vim.rtorr.com/)
